@@ -26,6 +26,9 @@ Viruses are a constant security risk that any company that has a computer system
 #### 5. Risk Assessment Procedures
 
 #### 6. Data Protection Process and Regulations
+Data Protection is an important aspect of every company as it is goverment regulated and strict rules must be followed by any and all organisations.
+
+
 
 #### 7. Reboot Games Security Policy
 
