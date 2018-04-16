@@ -1,7 +1,6 @@
 # Security
 
 #### 1. Types of Security Risks to Organisations
-
 The are a many security risks that any organisation can face, and not all of them are directly technology related. Described below are a number of both technological and human security risks.
 
 ##### Information Leaks
@@ -17,6 +16,22 @@ Viruses are a constant security risk that any company that has a computer system
 'Unauthorized external system access' is the process of someone outside of the company accessing the computer systems to either find private information or to damage the computer system iteslf. External access can be achieved by anyone if the organisation does not exersise good security of passwords and other login details. For example, encrypting these stored details cna help minimize the risk of them being used.
 
 
-####
+
+#### 2. Organisational Security Procedures
+
+#### 3. Configuration of Firewall Policies and Third Party VPNs
+
+#### 4. How Can Implementing a DMZ, Static IP, NAT Improve Security?
+
+#### 5. Risk Assessment Procedures
+
+#### 6. Data Protection Process and Regulations
+
+#### 7. Reboot Games Security Policy
+
+#### 8. Main Comnponents of an Organisational Disaster Recovery Plan
+
+
+
 
 
