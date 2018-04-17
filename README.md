@@ -19,22 +19,51 @@ Viruses are a constant security risk that any company that has a computer system
 
 #### 2. Organisational Security Procedures
 
+what kind of security procedures do most companys follow?
+
+Google
+West Herts College
+
 #### 3. Configuration of Firewall Policies and Third Party VPNs
+
+what happens if someone screws up a vpn or firewall configuration
 
 #### 4. How Can Implementing a DMZ, Static IP, NAT Improve Security?
 
+DMZ, users cant have access
+Static IP
+NAT
+
+how do they improve security with and example - if you wanted to implement it for reboot games
+
 #### 5. Risk Assessment Procedures
+
+risk assesment, if this was to happen how bad would it be.
+look at a company risk procedure, discuss why they are important
+usually in tables
 
 #### 6. Data Protection Process and Regulations
 Data Protection is an important aspect of every company as it is goverment regulated and strict rules must be followed by any and all organisations.
 
+data protection act
+computer misuse act
+european data regulations, must be able to opt out of data storage
+tell me about thme (explain)
 
 
 #### 7. Reboot Games Security Policy
 
+basically the whole thing
+
 #### 8. Main Comnponents of an Organisational Disaster Recovery Plan
 
-
+if everything goes wrong what do you do?
+what are the components of a DRP
+justify why they are included
+what is a disaster?
+natural 
+sabotage
+fire
 
 
 
