@@ -16,7 +16,6 @@ Viruses are a constant security risk that any company that has a computer system
 'Unauthorized external system access' is the process of someone outside of the company accessing the computer systems to either find private information or to damage the computer system iteslf. External access can be achieved by anyone if the organisation does not exersise good security of passwords and other login details. For example, encrypting these stored details cna help minimize the risk of them being used.
 
 
-
 #### 2. Organisational Security Procedures
 
 what kind of security procedures do most companys follow?
@@ -51,21 +50,23 @@ risk assesment, if this was to happen how bad would it be.
 look at a company risk procedure, discuss why they are important
 usually in tables
 
-#### 6. Data Protection Process and Regulations CHANGE!
+#### 6. Data Protection Process and Regulations
 
 Reboot Games must ensure that the organization abides by General Data Protection Regulation and the Data Protection Act. In the eyes of the law, Reboot Games are labled as 'Data Controllers' and as such any laws and regulations pertaining to data protection must be followed exactly.
 
 The Data Protection Act dictates that Reboot Games must keep any sensitive and personal data secure and only accessable to the person(s) said information belongs to. The Data Protection Act classifies sensitive and personal data as the following.
 
-"in this Act “sensitive personal data” means personal data consisting of information as to—
-- (a)the racial or ethnic origin of the data subject,
-- (b)his political opinions,
-- (c)his religious beliefs or other beliefs of a similar nature,
-- (d)whether he is a member of a trade union (within the meaning of the M1Trade Union and Labour Relations (Consolidation) Act 1992),
-- (e)his physical or mental health or condition,
-- (f)his sexual life,
-- (g)the commission or alleged commission by him of any offence, or
-- (h)any proceedings for any offence committed or alleged to have been committed by him, the disposal of such proceedings or the sentence of any court in such proceedings.
+in this Act “sensitive personal data” means personal data consisting of information as to—
+- (a) the racial or ethnic origin of the data subject,
+- (b) his political opinions,
+- (c) his religious beliefs or other beliefs of a similar nature,
+- (d) whether he is a member of a trade union (within the meaning of the M1Trade Union and Labour Relations (Consolidation) Act 1992),
+- (e) his physical or mental health or condition,
+- (f) his sexual life,
+- (g) the commission or alleged commission by him of any offence, or
+- (h) any proceedings for any offence committed or alleged to have been committed by him, the disposal of such proceedings or the sentence of any court in such proceedings.
+
+Anyone wanting to access personal or sensitive data will need to either (a). Provide 2 forms of photo identification to a member of staff to confirm their identitiy. or (b). if wanting access via telephone, have the member of staff on the phone confirm 2 different entries of data such as date of birth and a security question(s) set up by the user.
 
 ##### Procedures CHANGE!
 
