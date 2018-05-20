@@ -16,12 +16,32 @@ Viruses are a constant security risk that any company that has a computer system
 'Unauthorized external system access' is the process of someone outside of the company accessing the computer systems to either find private information or to damage the computer system iteslf. External access can be achieved by anyone if the organisation does not exersise good security of passwords and other login details. For example, encrypting these stored details cna help minimize the risk of them being used.
 
 
-#### 2. Organisational Security Procedures
+#### 2. Organisational Security Procedures CHANGE!
 
-what kind of security procedures do most companys follow?
+Security procedures are used to enforce the hazards that can be prominent in the workplace. These procedures usually are step-by-step instructions given to users for specific actions, such as logging in or entering the building, mainly to ensure secuirty is in place, the workplace is effective and the employees are safe.
 
-Google
-West Herts College
+5.1 Awareness and Prevention
+Any suspicious activity must be immediately reported to the reception desk, which will forward the information given to the security team.
+
+Incidents of crime, real or suspected, must be reported to the reception desk, which will forward the information given to the security team.
+
+All personal valuables must be locked away, placed out of sight or located on the user and never to be left unattended.
+
+All systems at the end of use must be logged out and/or shut down.
+
+Offices must be locked when leaving, with the windows closed and locked. Lights also should be turned off and blinds closed.
+
+Laptops and tablets should be locked out of sight when unused, especially overnight. Laptops should be secured to the desk with a security cable or a steel enclosure when left in open areas.
+
+5.2 Logging In
+It is imperative for employees to ensure an ID card, given by Reboot Games, remains on their person. The login username is located also on the ID card. The password is the user’s date of birth, unless changed by the user themselves.
+
+All logins must be made by the correct user with the correct ID.
+
+5.3 Entering the Establishment
+Employees are issued with Identification cards and all employees are eligible in order to gain access into the grounds and other rooms, which are all within a certain level to access. ID cards are also used for any registration and login detail. All users must ensure protection of these ID cards and must not loan to other employees for access or any other purpose. Any ID card misuse will be met with disciplinary action from the company.
+
+All employees must park in the applicable car park behind the building
 
 #### 3. Configuration of Firewall Policies and Third Party VPNs
 
@@ -68,23 +88,21 @@ in this Act “sensitive personal data” means personal data consisting of info
 
 Anyone wanting to access personal or sensitive data will need to either (a). Provide 2 forms of photo identification to a member of staff to confirm their identitiy. or (b). if wanting access via telephone, have the member of staff on the phone confirm 2 different entries of data such as date of birth and a security question(s) set up by the user.
 
-##### Procedures CHANGE!
+##### Procedures 
 
-- All physical data will be kept in a secure place to prevent any unauthorised viewing. This applies to all sorts of data that can be presented physically and stored electronically.
+- All physical data will be kept secure and seperate from the main site. Access will be restricted to authorized personel only.
 
-- Written or printed paper/files will be kept within a locked filing cabinet or drawer.
+- Any paperwork will be stored inside a locked container at all times.
 
-- Employees will be responsible for any data printouts so that there is no unauthorised viewing as well as destroying any printouts that are no longer required.
+- Employees will be instructed to destroy any paperwork or files that are no longer relevent or needed.
 
-- With any data stored electronically, there must be strong protection, both physically and electronically to prevent any threats.
+- Data backups will be performed on a regular basis
 
-- Data must have accessed assigned to specific employees and a strong password that is frequently changed. This applies to all digitally stored data.
+- Any computers storing sensitive data must have said data encrypted and regularly updated anti-virus software installed.
 
-- In physical terms, data stored on removable peripherals will need to be locked away in a secure position when unused.
+- All employees must change their passwords every 2 months.
 
-- Data will not be stored directly to any laptops or other mobile devices. It will only be stored on a designated server located in a secure space.
-
-- Data backups will be carried out regularily.
+- Any portable drives containing sensitive data must also be locked away with the paperwork.
 
 
 #### 7. Reboot Games Security Policy
