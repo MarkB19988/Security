@@ -30,11 +30,20 @@ what happens if someone screws up a vpn or firewall configuration
 
 #### 4. How Can Implementing a DMZ, Static IP, NAT Improve Security?
 
-DMZ, users cant have access
-Static IP
-NAT
+##### DMZ
+In networking terms, A Demilitarized Zone (DMZ) is essensially a sub network that can be used to separate a local network from a public one. The DMZ itself has all of the resources needed for it to be accessed from the internet. However the local network itself is unreachable from the internet. This makes the local network far more secure.
 
-how do they improve security with and example - if you wanted to implement it for reboot games
+A DMZ is an effective security tool because it serparates the local network from the internet. Because of this potential hackers can’t access data stores on the local network through the internet. Any service that can reached by someone outside of the network, such as email, are put into the DMZ, so in the event of a hack, the data cannot be reached. The most common way to do this is by setting up multiple firewalls, one for the internet and the server, and the other for the sever and the local network.
+
+##### Static IP CHANGE!
+An IP address, or Internet Protocol address, is a unique number that is assigned to devices on a network and works the same way as a normal street address; identifying the device on the internet. IP addresses are used also for network devices to communicate with one another. A static IP address is manually configured for a device, unlike a dynamic one that changes with each network.
+
+Static IPs can ensure that high tier security measures to a stationary address, unlike dynamic IP addresses where the network is constantly changing and this can allow for professional level firewalls and other advanced security systems, being a huge step up from dynamic IPs that just offer a good starting point of security.
+
+##### NAT CHANGE!
+NAT, or Network Address Translation, is where a network device is given a public address to computer within a private network and is designed to improve security within a network and to cut down on the number of IP addresses that an organization needs.
+
+What NAT does is hide the IP addresses of servers and computers on trusted networks from computers on other external networks. Should an attacker gain access, it would be hard to stage an attack on the computers as the IP addresses would be hidden from view by NAT.
 
 #### 5. Risk Assessment Procedures
 
