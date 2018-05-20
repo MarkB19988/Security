@@ -51,13 +51,39 @@ risk assesment, if this was to happen how bad would it be.
 look at a company risk procedure, discuss why they are important
 usually in tables
 
-#### 6. Data Protection Process and Regulations
-Data Protection is an important aspect of every company as it is goverment regulated and strict rules must be followed by any and all organisations.
+#### 6. Data Protection Process and Regulations CHANGE!
 
-data protection act
-computer misuse act
-european data regulations, must be able to opt out of data storage
-tell me about thme (explain)
+Reboot Games must ensure that the organization abides by General Data Protection Regulation and the Data Protection Act. In the eyes of the law, Reboot Games are labled as 'Data Controllers' and as such any laws and regulations pertaining to data protection must be followed exactly.
+
+The Data Protection Act dictates that Reboot Games must keep any sensitive and personal data secure and only accessable to the person(s) said information belongs to. The Data Protection Act classifies sensitive and personal data as the following.
+
+"in this Act “sensitive personal data” means personal data consisting of information as to—
+- (a)the racial or ethnic origin of the data subject,
+- (b)his political opinions,
+- (c)his religious beliefs or other beliefs of a similar nature,
+- (d)whether he is a member of a trade union (within the meaning of the M1Trade Union and Labour Relations (Consolidation) Act 1992),
+- (e)his physical or mental health or condition,
+- (f)his sexual life,
+- (g)the commission or alleged commission by him of any offence, or
+- (h)any proceedings for any offence committed or alleged to have been committed by him, the disposal of such proceedings or the sentence of any court in such proceedings.
+
+##### Procedures CHANGE!
+
+- All physical data will be kept in a secure place to prevent any unauthorised viewing. This applies to all sorts of data that can be presented physically and stored electronically.
+
+- Written or printed paper/files will be kept within a locked filing cabinet or drawer.
+
+- Employees will be responsible for any data printouts so that there is no unauthorised viewing as well as destroying any printouts that are no longer required.
+
+- With any data stored electronically, there must be strong protection, both physically and electronically to prevent any threats.
+
+- Data must have accessed assigned to specific employees and a strong password that is frequently changed. This applies to all digitally stored data.
+
+- In physical terms, data stored on removable peripherals will need to be locked away in a secure position when unused.
+
+- Data will not be stored directly to any laptops or other mobile devices. It will only be stored on a designated server located in a secure space.
+
+- Data backups will be carried out regularily.
 
 
 #### 7. Reboot Games Security Policy
