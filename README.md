@@ -116,7 +116,7 @@ natural
 sabotage
 fire
 
-The risks and threats within a business can at some points take hold and cause a catastrophic effect on the business, so it is important to plan to mitigate against loss and to ensure survival. The following key elements are important to the disaster recovery plan.
+A Disaster Recovery Plan is a plan that is put in place to be followed in the event of a catastrophy to ensure that the company is able to recover as quickly as possible. The main components of a disaster recovery plan are as follows:
 
 ##### Recovery Process
 
@@ -124,13 +124,13 @@ The recovery process outlines what needs protecting and what is critical during 
 
 ##### Responsibilities
 
-Everyones responsibilities should be made immediately clear in a disaster recovery plan. Tasks and responsibilities are given to members of the organisation to work on so all issues can be addressed at the same time. The process of getting different people to work on different key parts means there is less for any one individual to do during the disaster recovery process. This part is important because it speeds up the process of recovery.
+Everyones responsibilities should be made immediately clear in a disaster recovery plan. Tasks and responsibilities are given to members of the organisation to work on so all issues can be addressed at the same time. The process of getting different people to work on different key parts means there is less for any one individual to do during the disaster recovery process. This part is important because it speeds up the process of recovery by dividing up the workload.
 
- Timeframe
+##### Timeframe
 
-It is crucial that systems are restored as quickly as possible. Defining a time for the recovery of systems and data gives a clear estimate of when the disaster will be resolved.
+Timeframe refers to how much time individual tasks during the recovery process are estimated to take. As stated before the recovery responsibilities are divided up between the workforce, each of these responsibilities and tasks are given a timeframe. If the timeframe is followed then the company can get back to working order at or before the estimated time. A timeframe is important to implement so that there is an estimation of when the company will be back up and working again, this can be relayed to clients and provide them with some knowledge of what is happening and when the company will be back up and running. 
 
-This element is key within a disaster recovery plan because it gives a clear maximum time for the disaster to be resolved, ensuring that all systems will be recovered as quickly as possible without delay. Should one system take long, all systems or data are at risk of being destroyed. This also helps by addressing the gaps in the plan and identifying the critical elements of the IT infrastructure, aiding in right recovery timeline.
+
 
 
 
