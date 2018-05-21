@@ -1,4 +1,4 @@
-# Security
+# Reboot Games Security Policy 
 
 #### 1. Types of Security Risks to Organisations
 The are a many security risks that any organisation can face, and not all of them are directly technology related. Described below are a number of both technological and human security risks.
@@ -16,7 +16,7 @@ Viruses are a constant security risk that any company that has a computer system
 'Unauthorized external system access' is the process of someone outside of the company accessing the computer systems to either find private information or to damage the computer system iteslf. External access can be achieved by anyone if the organisation does not exersise good security of passwords and other login details. For example, encrypting these stored details cna help minimize the risk of them being used.
 
 
-#### 2. Organisational Security Procedures 
+#### 2. Reboot Game's Organisational Security Procedures 
 
 Reboot Game's security procedures are designed to reduce the chance of a security breach or the ammount of data loss or damage that could dealt in the event of a breach. These procedures are designed to be followed step by step and instructions will be sent to all members of staff on specific actions and requirements that they need to meet. This can extend outside of the building and the computer system and have an effect on where members of staff are allowed to park and even what they are allowed to bring with them to the workplace.
 
@@ -65,7 +65,7 @@ The use of Static IP's allows for the network to implement more features and per
 ##### NAT
 NAT, or Network Address Translation, refers to the process in which a device is given a public address to computer within a private network. It is designed to cut down on the ammount of IP addresses a company uses and can be used to improve security. This is because NAT hides the IP addresses of servers and computers on the internal network from computers on external networks or over the internet. In the event of a breach, It would be much more difficult to cause any damage or access more of the network as IP addresses would be hidden.
 
-#### 5. Risk Assessment Procedures
+#### 5. Reboot Game's Risk Assessment Procedures
 
 risk assesment, if this was to happen how bad would it be.
 look at a company risk procedure, discuss why they are important
@@ -106,11 +106,7 @@ Anyone wanting to access personal or sensitive data will need to either (a). Pro
 - Any portable drives containing sensitive data must also be locked away with the paperwork.
 
 
-#### 7. Reboot Games Security Policy
-
-basically the whole thing
-
-#### 8. Main Comnponents of an Organisational Disaster Recovery Plan
+#### 8. Main Comnponents of the Organisational Disaster Recovery Plan
 
 if everything goes wrong what do you do?
 what are the components of a DRP
