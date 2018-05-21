@@ -18,14 +18,20 @@ Viruses are a constant security risk that any company that has a computer system
 
 #### 2. Organisational Security Procedures CHANGE!
 
-Security procedures are used to enforce the hazards that can be prominent in the workplace. These procedures usually are step-by-step instructions given to users for specific actions, such as logging in or entering the building, mainly to ensure secuirty is in place, the workplace is effective and the employees are safe.
+Reboot Game's security procedures are designed to reduce the chance of a security breach or the ammount of data loss or damage that could dealt in the event of a breach. These procedures are designed to be followed step by step and instructions will be sent to all members of staff on specific actions and requirements that they need to meet. This can extend outside of the building and the computer system and have an effect on where members of staff are allowed to park and even what they are allowed to bring with them to the workplace.
 
-5.1 Awareness and Prevention
-Any suspicious activity must be immediately reported to the reception desk, which will forward the information given to the security team.
+#### Awareness and Prevention Procedure
 
-Incidents of crime, real or suspected, must be reported to the reception desk, which will forward the information given to the security team.
+##### Step 1 
+Any sighting of suspicious activity by either a member of the public or a member of the public must be immediatly reported to either (a) a higher member of staff that will forward the information to security or (b) security directly.
 
-All personal valuables must be locked away, placed out of sight or located on the user and never to be left unattended.
+##### Step 2
+If the threat is deemed to be severe, severe being defined as (a) A threat to life of any person(s) currently inside the building or (b) a threat of data theft that would put any and all sensitive data in the building at risk, Then all personel will be immediatly prompted to evacuate the building and the police will be called to deal with the situation.
+
+If the threat is deemed to be under severe then proceed to step 3
+
+##### Step 3
+If the threat is not deemed severe then the c
 
 All systems at the end of use must be logged out and/or shut down.
 
