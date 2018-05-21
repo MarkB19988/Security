@@ -16,7 +16,7 @@ Viruses are a constant security risk that any company that has a computer system
 'Unauthorized external system access' is the process of someone outside of the company accessing the computer systems to either find private information or to damage the computer system iteslf. External access can be achieved by anyone if the organisation does not exersise good security of passwords and other login details. For example, encrypting these stored details cna help minimize the risk of them being used.
 
 
-#### 2. Organisational Security Procedures CHANGE!
+#### 2. Organisational Security Procedures 
 
 Reboot Game's security procedures are designed to reduce the chance of a security breach or the ammount of data loss or damage that could dealt in the event of a breach. These procedures are designed to be followed step by step and instructions will be sent to all members of staff on specific actions and requirements that they need to meet. This can extend outside of the building and the computer system and have an effect on where members of staff are allowed to park and even what they are allowed to bring with them to the workplace.
 
@@ -31,23 +31,20 @@ If the threat is deemed to be severe, severe being defined as (a) A threat to li
 If the threat is deemed to be under severe then proceed to step 3
 
 ##### Step 3
-If the threat is not deemed severe then the c
+If the threat is not deemed severe then the company security will deal with the offending person(s). All staff are advised not to attempt to stop the offender themselves and wait for security.
 
-All systems at the end of use must be logged out and/or shut down.
 
-Offices must be locked when leaving, with the windows closed and locked. Lights also should be turned off and blinds closed.
+#### Entering and Leaving Procedure
+All staff members will be issued with ID cards that will be used to enter and exit the building and individual rooms insided the building. All staff must make sure that they wear their ID cards at all times and DO NOT give their ID card to any individual for any reason. 
 
-Laptops and tablets should be locked out of sight when unused, especially overnight. Laptops should be secured to the desk with a security cable or a steel enclosure when left in open areas.
+##### Step 1
+All members of staff will have to scan their ID on the reader as they enter the bulding in order for the door to unlock.
 
-5.2 Logging In
-It is imperative for employees to ensure an ID card, given by Reboot Games, remains on their person. The login username is located also on the ID card. The password is the user’s date of birth, unless changed by the user themselves.
+##### Step 2
+All members of staff will be asked to scan their ID as they enter any room inside the building, there is a reader next to every room. While the room is always unlocked during working hours, you must still scan your card in order to log who has been in what room.
 
-All logins must be made by the correct user with the correct ID.
-
-5.3 Entering the Establishment
-Employees are issued with Identification cards and all employees are eligible in order to gain access into the grounds and other rooms, which are all within a certain level to access. ID cards are also used for any registration and login detail. All users must ensure protection of these ID cards and must not loan to other employees for access or any other purpose. Any ID card misuse will be met with disciplinary action from the company.
-
-All employees must park in the applicable car park behind the building
+##### Step 3
+When leaving the building, all members of staff will be asked to once again scan their ID in order to log who is left inside the building.
 
 #### 3. Configuration of Firewall Policies and Third Party VPNs
 
