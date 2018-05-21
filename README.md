@@ -57,15 +57,13 @@ In networking terms, A Demilitarized Zone (DMZ) is essensially a sub network tha
 
 A DMZ is an effective security tool because it serparates the local network from the internet. Because of this potential hackers can’t access data stores on the local network through the internet. Any service that can reached by someone outside of the network, such as email, are put into the DMZ, so in the event of a hack, the data cannot be reached. The most common way to do this is by setting up multiple firewalls, one for the internet and the server, and the other for the sever and the local network.
 
-##### Static IP CHANGE!
-An IP address, or Internet Protocol address, is a unique number that is assigned to devices on a network and works the same way as a normal street address; identifying the device on the internet. IP addresses are used also for network devices to communicate with one another. A static IP address is manually configured for a device, unlike a dynamic one that changes with each network.
+##### Static IP
+IP address stands for Internet Protocol address, is a unique number that is assigned to devices on a network that is used to identify that specific device iver the internet. Any device that is connected to the internet is assigend an IP address. A static IP address is one that is manually assigned and does not change while a dynamic IP is one that changes every time that device re-connects to the internet.
 
-Static IPs can ensure that high tier security measures to a stationary address, unlike dynamic IP addresses where the network is constantly changing and this can allow for professional level firewalls and other advanced security systems, being a huge step up from dynamic IPs that just offer a good starting point of security.
+The use of Static IP's allows for the network to implement more features and perform more tasks, such as hosting a website or an FTP server as these require a static IP in order to function. 
 
-##### NAT CHANGE!
-NAT, or Network Address Translation, is where a network device is given a public address to computer within a private network and is designed to improve security within a network and to cut down on the number of IP addresses that an organization needs.
-
-What NAT does is hide the IP addresses of servers and computers on trusted networks from computers on other external networks. Should an attacker gain access, it would be hard to stage an attack on the computers as the IP addresses would be hidden from view by NAT.
+##### NAT
+NAT, or Network Address Translation, refers to the process in which a device is given a public address to computer within a private network. It is designed to cut down on the ammount of IP addresses a company uses and can be used to improve security. This is because NAT hides the IP addresses of servers and computers on the internal network from computers on external networks or over the internet. In the event of a breach, It would be much more difficult to cause any damage or access more of the network as IP addresses would be hidden.
 
 #### 5. Risk Assessment Procedures
 
