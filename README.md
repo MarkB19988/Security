@@ -106,7 +106,7 @@ Anyone wanting to access personal or sensitive data will need to either (a). Pro
 - Any portable drives containing sensitive data must also be locked away with the paperwork.
 
 
-#### 8. Main Comnponents of the Organisational Disaster Recovery Plan CHANGE!
+#### 8. Main Comnponents of the Organisational Disaster Recovery Plan 
 
 if everything goes wrong what do you do?
 what are the components of a DRP
