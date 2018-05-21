@@ -122,25 +122,16 @@ The risks and threats within a business can at some points take hold and cause a
 
 The recovery process outlines what needs protecting and what is critical during a disaster recovery. Anything defined here is essential for the company to continue to operate, so maximum effort must go into either preserving or backing up these important systems. Anything that is not defined here will ususally be take care of after the essential parts are full functional again. This component is important to include in a disaster recovery plan because it enables the company to come back online after a disaster as quickly as possible by focussing efforts on the most key and important systems.
 
-##### Defining Responsibilities
+##### Responsibilities
 
-Everyones responsibilities should be made immediately clear in a disaster recovery plan. Tasks and responsibilities are given to members of the organisation to work on so all issues can be addressed at the same time. The process of getting different people to work on different key parts means there is less for any one individual to do during the disaster recovery process. This part is , roles will need to be assigned to ensure the recovery process goes smoothly and calmly. Should this not be in place, then the organization will end up in chaos trying to recover the important assets.
+Everyones responsibilities should be made immediately clear in a disaster recovery plan. Tasks and responsibilities are given to members of the organisation to work on so all issues can be addressed at the same time. The process of getting different people to work on different key parts means there is less for any one individual to do during the disaster recovery process. This part is important because it speeds up the process of recovery.
 
-9.3 Regular Testing
-
-Testing is done to ensure that the plan is still in full effect against shifting risks that can come up from time to time. As these risks are being familiarised, it is important for the plan to reflect on how to deal with these risks, so regularly testing the plan is essential for it to work properly and ensure the company the best chance of success in recovery.
-
-9.4 Recovery Time
+ Timeframe
 
 It is crucial that systems are restored as quickly as possible. Defining a time for the recovery of systems and data gives a clear estimate of when the disaster will be resolved.
 
 This element is key within a disaster recovery plan because it gives a clear maximum time for the disaster to be resolved, ensuring that all systems will be recovered as quickly as possible without delay. Should one system take long, all systems or data are at risk of being destroyed. This also helps by addressing the gaps in the plan and identifying the critical elements of the IT infrastructure, aiding in right recovery timeline.
 
-9.5 Communication Plan
-
-A communication plan is in order during a recovery plan to ensure that employees are communicated. Questions are asked during the disaster, so a protocol on communicating to employees is key.
-
-This component is probably one of the most important as should any method of communication from the server be affected, there is a viable backup. It is also worth noting that a communication plan is key to reach employees and answer any questions or detail any orders, should they be helping those recovering the systems.
 
 
 
