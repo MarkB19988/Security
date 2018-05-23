@@ -26,7 +26,7 @@ Viruses are a constant security risk that any company that has a computer system
 
 Reboot Game's security procedures are designed to reduce the chance of a security breach or the ammount of data loss or damage that could dealt in the event of a breach. These procedures are designed to be followed step by step and instructions will be sent to all members of staff on specific actions and requirements that they need to meet. This can extend outside of the building and the computer system and have an effect on where members of staff are allowed to park and even what they are allowed to bring with them to the workplace.
 
-#### Awareness and Prevention Procedure
+#### Awareness Procedure
 
 ##### Step 1 
 Any sighting of suspicious activity by either a member of the public or a member of the public must be immediatly reported to either (a) a higher member of staff that will forward the information to security or (b) security directly.
@@ -54,7 +54,17 @@ When leaving the building, all members of staff will be asked to once again scan
 
 #### 3. Configuration of Firewall Policies and Third Party VPNs
 
-what happens if someone screws up a vpn or firewall configuration
+##### Firewall
+
+A Firewall is essentially a piece of hardware or software that decides what traffic is allowed in and out of different ports. There are rules that the firewall uses to make the decision on if a packet of data should be allowed through. A firewall can respond in three different ways to a packet of data. It can (a). Allow the data entry into the network, (b). Reject the data and return an error message or (c). Reject the data without sending an error message.
+
+If a firewall is set up incorrectly it can open up a lot of security risks. For example if the firewall was set up not validate any data and just left certain ports open to any data then a virus could get into the network by simply going through any port and hiding itself as a different kind of packet. for example a virus could hide itsef as web traffic and enter through port 80.
+
+##### VPNs
+
+A VPN, also called a Virtual Private Network is a system that redirects web requests from a private network through a different network. The VPN acts as a 'middle man' between the private network and the internet. The VPN will take the request and look for it on the internet, then give the data back to the private network.
+
+if a VPN is set up incorrectly or without due care, then there are some potential security risks. For example when using a thrid party VPN, their servers are ususally public to anyone who signs up to the service. In theory this means that anyone signed up to that specific service can see all of the web requests from all of the different users that use that server as their VPN
 
 #### 4. How Can Implementing a DMZ, Static IP, NAT Improve Security?
 
