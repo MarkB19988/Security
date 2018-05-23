@@ -83,9 +83,13 @@ NAT, or Network Address Translation, refers to the process in which a device is 
 
 #### 5. Reboot Game's Risk Assessment
 
-risk assesment, if this was to happen how bad would it be.
-look at a company risk procedure, discuss why they are important
-usually in tables
+| Risk | Explanation | Severity | Prevention |
+| ---- | -----------  | ------------------ | -------- |
+| Information Leaks | A member of staff leaking private information to the public| High | Keep all data password protected and log whoever access what data |
+| Break in | Person(s) breaking into the building | High | Follow closing procedure, lock all doors and windows before you leave the building if you are the last one out, arm the alarm every night |
+| Power cut  | Power cut from the national grid, data loss could occur | Medium | Save files regularly, back up generators are in place for main systems and critical data to prevent loss |
+| Impersonation | A member of the public gaining access to the building by pretending to be a member of staff  | High | Issue all staff with ID cards, ID cards are to be worn at all times |     
+
 
 #### 6. Data Protection Process and Regulations
 
