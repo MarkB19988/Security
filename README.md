@@ -112,7 +112,7 @@ Anyone wanting to access personal or sensitive data will need to either (a). Pro
 - Any portable drives containing sensitive data must also be locked away with the paperwork.
 
 
-#### 8. Main Comnponents of the Organisational Disaster Recovery Plan 
+#### 8. Main Components of the Organisational Disaster Recovery Plan 
 
 A Disaster Recovery Plan is a plan that is put in place to be followed in the event of a catastrophy to ensure that the company is able to recover as quickly as possible. A disater is any event that would cause Reboot Games to cease trading if this event were to occur. 
 
