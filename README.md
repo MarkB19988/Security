@@ -1,13 +1,19 @@
 # Reboot Games Security Policy 
 
 #### 1. Types of Security Risks to Organisations
-The are a many security risks that any organisation can face, and not all of them are directly technology related. Described below are a number of both technological and human security risks.
+The are a two main types of security risks that any organisation can face, Described below are a number of both Technological and Physical security risks.
+
+#### Physical
+Physical risks are risks that directly involve a person or person(s) gaining access to and or causing damage to the building or hardware within Reboot Games. Below are some examples of physical security risks. 
 
 ##### Information Leaks
 'Information leaks' is a term that refers to the event in which an employee of the company copies private data about other employees ,or more often, data about projects that the company is working on, and releases it to the public. This type of data breach can be very harmful to the company as rival companies can get knowledge on their upcoming projects and prepare an appropriate response to best them. It can also put the employees in danger if their peronal data leaked.
 
 ##### Impersonation
 'Impersonation' is the act of posing as an employee of the company or as someone such as an engineer or electrician in order to gain access to the company building. Once inside the imposter can potentially gain access to private data that is stored inside the building and then cause an 'information leak' with the data they find.
+
+#### Technological
+Technological security risks are risks that do not involve firect human contact or physical interaction and are instead carried out from outside of the company building. Below are some examples of technological risks.
 
 ##### Viruses
 Viruses are a constant security risk that any company that has a computer system will face. The intent of the virus may not always be to steal the company's data, it could just be to damage the company's systems and stop them trading. As there are many different types of computer viruses that exist today it is important for a company to keep their virus protection security up to date.
@@ -108,15 +114,17 @@ Anyone wanting to access personal or sensitive data will need to either (a). Pro
 
 #### 8. Main Comnponents of the Organisational Disaster Recovery Plan 
 
-if everything goes wrong what do you do?
-what are the components of a DRP
-justify why they are included
-what is a disaster?
-natural 
-sabotage
-fire
+A Disaster Recovery Plan is a plan that is put in place to be followed in the event of a catastrophy to ensure that the company is able to recover as quickly as possible. A disater is any event that would cause Reboot Games to cease trading if this event were to occur. 
 
-A Disaster Recovery Plan is a plan that is put in place to be followed in the event of a catastrophy to ensure that the company is able to recover as quickly as possible. The main components of a disaster recovery plan are as follows:
+Some examples of disasters are:
+
+##### Fire
+If a fire was to spread throughout the building then not only would Reboot Games lose access its workplace but it could also cause significant data loss if the correct back up procedures were not in place.
+
+##### Sabotage
+Sabotage is the act of someone within the company doing something that would cause Reboot Games to stop trading. This could range from drestroying hardware, data or causing damage to the building or harm to personel.
+
+The main components of a disaster recovery plan are as follows:
 
 ##### Recovery Process
 
